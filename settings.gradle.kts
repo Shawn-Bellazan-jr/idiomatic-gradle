@@ -1,4 +1,4 @@
-rootProject.name = "idiomatic-gradle"
+rootProject.name = "tooensure-gradle"
 
 dependencyResolutionManagement {
     // The actual product split into multiple components.
